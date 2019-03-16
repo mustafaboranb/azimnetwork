@@ -1,0 +1,23 @@
+﻿{
+  "name": "emırhansarac",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Emirhan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js-commando": "^0.10.0",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "randomstring": "^1.1.5"
+  }
+}
+
+
+{
+
+}
